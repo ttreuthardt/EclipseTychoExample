@@ -6,3 +6,5 @@
 version.ini
 .metadata/
 RemoteSystemsTempFiles
+*.class
+*.jar
