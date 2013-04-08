@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Kernel
+Bundle-SymbolicName: li.obiwan.equinox.test.kernel
+Bundle-Version: 1.0.0
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: li.obiwan.equinox.test.common;bundle-version="1.0.0"

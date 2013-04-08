@@ -1,0 +1,8 @@
+.mylyn
+.plugins
+.DS_Store
+.lock
+.log
+version.ini
+.metadata/
+RemoteSystemsTempFiles

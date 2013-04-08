@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Common
+Bundle-SymbolicName: li.obiwan.equinox.test.common
+Bundle-Version: 1.0.0
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: li.obiwan.equinox.test.common
+Bundle-ClassPath: .,
+ external:/Users/thomas/Documents/dev/javaLibs/commons-io-2.4/commons-io-2.4.jar
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.7.0"
